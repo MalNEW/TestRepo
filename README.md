@@ -1,2 +1,3 @@
 # TestRepo
-PBEM00 KVM/Docker Kernel Test
+小米5X启用KVM/Docker支持（未完成）
+Xiaomi 5X Enable KVM/Docker Project(Unfinished)
